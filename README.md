@@ -77,7 +77,7 @@ Tersedia venue khusus acara <em>intimate</em> berkapasitas 200 orang, full AC, d
 <div class="facility-group">
 <h2>Wedding Hall</h2>
 <div class="facility-images">
-<img src="wedding hall.webp">
+<img src="aseest/gedung (1).jpg">
 <img src="gedung (8).jpg">
 <img src="gedung (9).jpg">
 <img src="gedung (6).jpg">
