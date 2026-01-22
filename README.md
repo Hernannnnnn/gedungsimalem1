@@ -22,7 +22,7 @@
 
 <header id="header">
     <div class="logo">
-        <img src="LOGO.png" alt="Simalem Convention Hall">
+        <img src="aseest/LOGO.png" alt="Simalem Convention Hall">
     </div>
 
     <nav id="nav">
